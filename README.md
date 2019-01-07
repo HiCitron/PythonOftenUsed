@@ -1,2 +1,2 @@
 # PythonOftenUsed
-Useful functions, ready to use, python 3+
+Ready to use functions for python 3. Feel free to look at the pdf for more information.
